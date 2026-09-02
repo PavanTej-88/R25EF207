@@ -8,3 +8,7 @@ Learning C programming
 Interested in web development
 
 Goal: Build useful software projects
+
+## Projects
+
+I am working on programming and web development projects as part of my engineering studies. This portfolio will document the projects I build and the skills I develop.
