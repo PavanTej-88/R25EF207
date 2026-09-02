@@ -6,3 +6,5 @@ I am Pavan Tej, an engineering student learning programming, software developmen
 Learning C programming
 
 Interested in web development
+
+Goal: Build useful software projects
